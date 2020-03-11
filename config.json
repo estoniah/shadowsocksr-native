@@ -1,9 +1,9 @@
 {
     "password": "ssr-pwd-ty-VL-29",
-    "method": "aes-128-ctr",
+    "method": "aes-256-cfb",
     "protocol": "auth_aes128_md5", // "origin", // 
     "protocol_param": "",
-    "obfs": "tls1.2_ticket_auth", // "plain", // 
+    "obfs": "http_simple", // "plain", // 
     "obfs_param": "",
 
     "udp": false,
@@ -15,9 +15,9 @@
     },
 
     "client_settings": {
-        "server": "12.34.56.78",
+        "server": "202.182.96.251",
         "server_port": 12475,
-        "listen_address": "0.0.0.0",
+        "listen_address": "192.168.124.12",
         "listen_port": 1080
     },
 
