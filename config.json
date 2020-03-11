@@ -1,5 +1,5 @@
 {
-    "password": "password",
+    "password": "ssr-pwd-ty-VL-29",
     "method": "aes-128-ctr",
     "protocol": "auth_aes128_md5", // "origin", // 
     "protocol_param": "",
